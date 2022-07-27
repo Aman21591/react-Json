@@ -1,0 +1,15 @@
+var DATA = [
+    {    
+    "name": "Aman Yadav",
+    "imgURL": "http://lorempixel.com/100/100/",
+    "hobbyList":" ['coding', 'writing', 'skiing']"
+},
+{
+    "name":"Amit",
+    "imgURL":"https://www.gstatic.com/webp/gallery3/1.png",
+    "hobbyList":"Playing game"
+
+
+},
+];
+export default DATA;
